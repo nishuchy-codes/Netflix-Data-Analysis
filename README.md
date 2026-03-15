@@ -21,15 +21,15 @@ The dataset contains information about Netflix titles such as type, country, rel
 
 ## Project Structure
 Netflix-Data-Analysis
-│
 ├── data
 │   └── netflix_titles.csv
+├── images
+│   ├── 5_global_distribution.png
+│   ├── india_content_trend.png
+│   └── top_5_countries.png
 ├── notebook
 │   └── Netflix_Data_Analysis.ipynb
-├── images
-│   ├── graph1.png
-│   ├── graph2.png
-│   └── graph3.png
+├── README.md
 └── requirements.txt
 
 ## Conclusion
