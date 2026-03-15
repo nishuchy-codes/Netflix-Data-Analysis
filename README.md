@@ -35,7 +35,13 @@ Netflix-Data-Analysis
 ## Conclusion
 This project helps understand Netflix content trends using data analysis and visualization.
 
-## Graphs
-![Movies vs TV Shows](images/graph1.png)
-![India Content Trend](images/graph2.png)
-![Top 5 Countries](images/graph3.png)
+### Graphs
+
+#### 1. Global Distribution of Content
+![Global Distribution](images/5_global_distribution.png)
+
+#### 2. India Content Trend
+![India Trend](images/india_content_trend.png)
+
+#### 3. Top 5 Countries
+![Top Countries](images/top_5_countries.png)
